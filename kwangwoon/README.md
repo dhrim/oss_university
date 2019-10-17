@@ -7,3 +7,5 @@
         - [dnn_iris_and_optimizer.ipynb](../material/dnn_iris_and_optimizer.ipynb)
         - [dnn_iris_with_category_index.ipynb](../material/dnn_iris_with_category_index.ipynb)
     - MNIST 영상데이터 : [dnn_mnist.ipynb](../material/dnn_mnist.ipynb)
+- CNN
+    - MNIST : [cnn_mnist.ipynb](../material/cnn_mnist.ipynb)
