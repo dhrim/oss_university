@@ -1,2 +1,2 @@
-- [AI_and_Keras_intro.pptx](../AI_and_Keras_intro.pptx)
+- [AI_and_Keras_intro.pptx](../material/AI_and_Keras_intro.pptx)
 - [Keras_intro.ipynb](Keras_intro.ipynb)
