@@ -1,0 +1,8 @@
+- 인공지능과 케라스 소개 : [AI_and_Keras_intro.pptx](../material/AI_and_Keras_intro.pptx)
+- Keras 요약 [keras_in_short.md](../material/keras_in_short.md)
+- DNN in Keras : [dnn_in_keras.ipynb](../material/dnn_in_keras.ipynb)
+- DNN as classifier
+    - 분류기 : [dnn_as_a_classifier.ipynb](../material/dnn_as_a_classifier.ipynb)
+    - IRIS
+        - [dnn_iris_classification.ipynb](../material/dnn_iris_classification.ipynb)
+    - MNIST 영상데이터 : [dnn_mnist.ipynb](../material/dnn_mnist.ipynb)

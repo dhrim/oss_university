@@ -2,3 +2,5 @@
 
 - [경운대학교](kyungwoon/README.md)
 - [광운대학교](kwangwoon/README.md)
+- [충북대학교](chungbuk/README.md)
+
