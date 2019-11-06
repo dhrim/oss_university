@@ -4,4 +4,5 @@
 - [광운대학교](kwangwoon/README.md)
 - [충북대학교](chungbuk/README.md)
 - [한림대학교](hallym/README.md)
+- [안동대학교](andong/README.md)
 
