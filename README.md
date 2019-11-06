@@ -5,4 +5,5 @@
 - [충북대학교](chungbuk/README.md)
 - [한림대학교](hallym/README.md)
 - [안동대학교](andong/README.md)
+- [영남남학교](yeungnam/README.md)
 
