@@ -6,4 +6,5 @@
 - [한림대학교](hallym/README.md)
 - [안동대학교](andong/README.md)
 - [영남대학교](yeungnam/README.md)
+- [충남대학교](chungnam/README.md)
 
